@@ -19,3 +19,7 @@ tree in the proper order level order: 4 2 6 1 3 5 7 9 8
 * You provide meaningful variable names
 * You provide sufficient and meaningful comments
 * Your code is well structured
+
+=====
+10/10
+=====
